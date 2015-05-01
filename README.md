@@ -26,13 +26,14 @@ Portions created by the Initial Developer are Copyright (C) 2004
 the Initial Developer. All Rights Reserved.
 
 Contributor(s):
-  Tom Austin <taustin@ucsc.edu>
-  Brendan Eich <brendan@mozilla.org>
-  Shu-Yu Guo <shu@rfrn.org>
-  Dave Herman <dherman@mozilla.com>
-  Dimitris Vardoulakis <dimvar@ccs.neu.edu>
-  Patrick Walton <pcwalton@mozilla.com>
-  Carl Smith <csmith@thinkful.com>
+
+- Tom Austin <taustin@ucsc.edu>
+- Brendan Eich <brendan@mozilla.org>
+- Shu-Yu Guo <shu@rfrn.org>
+- Dave Herman <dherman@mozilla.com>
+- Dimitris Vardoulakis <dimvar@ccs.neu.edu>
+- Patrick Walton <pcwalton@mozilla.com>
+- Carl Smith <csmith@thinkful.com>
 
 Alternatively, the contents of this file may be used under the terms of
 either the GNU General Public License Version 2 or later (the "GPL"), or
